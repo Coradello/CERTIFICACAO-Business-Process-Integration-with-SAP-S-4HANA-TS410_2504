@@ -27,7 +27,7 @@ A certificação SAP de Processos de Negócios abrange diversos tópicos, entre 
 Trata-se de uma prova com duração de 3 horas, composta por questões elaboradas em nível associate. Isso significa que os conteúdos exigidos vão além do nível practitioner — são mais complexos, com perguntas bem estruturadas que exigem conhecimento abrangente dos processos SAP, desde os módulos até a integração entre os processos de negócio.
 
 
-
+Para um recém estudante de SAP este exame aborda aspectos bem amplos para a carreira , Este conteudo introduz muito bem o ecosistema SAP.
 
 
 
